@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a **software developer** with a passion for crafting a
 
 ---
 
-## 🚀 About Me
+## 💁‍♀️ About Me
 - 👩‍💻 **Front-End Specialist**: Expert in accessible UI/UX, Blazor, Angular, and modern web technologies.
 - 🔧 **Full-Stack Developer**: Comfortable working with .NET, databases, and cloud platforms.
 - 📢 **Consultant & Problem-Solver**: Experienced in building scalable solutions for **enterprise and government clients**.
@@ -18,12 +18,12 @@ Welcome to my GitHub! I'm a **software developer** with a passion for crafting a
 
 ## 📌 Pinned Projects
 Check out some of my featured work:
-🔹 [GuildNoteDisplay](https://github.com/Myrhial/GuildNoteDisplay) – A WoW addon that displays public guild notes in chat.
-🔹 [AllTheThings](https://github.com/Myrhial/AllTheThings) – A comprehensive WoW addon project.
-🔹 [LastSeen](https://github.com/Saaappi/LastSeen) – A WoW addon that tracks item history.
-🔹 [Curio Exchange](https://github.com/Myrhial/Curio-Exchange) – ASP.NET MVC project with Azure integrations.
-🔹 [Institute](https://github.com/Myrhial/Institute) – Combat system for Lusternia.
-🔹 [De Kleine Engel](https://github.com/Myrhial/De-Kleine-Engel) – Real-world store application in PHP & JavaScript.
+- [GuildNoteDisplay](https://github.com/Myrhial/GuildNoteDisplay) – A WoW addon that displays public guild notes in chat.
+- [AllTheThings](https://github.com/Myrhial/AllTheThings) – A comprehensive WoW addon project.
+- [LastSeen](https://github.com/Saaappi/LastSeen) – A WoW addon that tracks item history.
+- [Curio Exchange](https://github.com/Myrhial/Curio-Exchange) – ASP.NET MVC project with Azure integrations.
+- [Institute](https://github.com/Myrhial/Institute) – Combat system for Lusternia.
+- [De Kleine Engel](https://github.com/Myrhial/De-Kleine-Engel) – Real-world store application in PHP & JavaScript.
 
 ---
 
